@@ -2,4 +2,6 @@
 Dockerfile linguist-vendored
 *.cs linguist-vendored
 *.cshtml linguist-vendored
+*.py linguist-vendored=false
+*.ipynb linguist-vendored=false
 
