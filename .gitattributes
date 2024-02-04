@@ -1,3 +1,5 @@
 *.html linguist-vendored
 Dockerfile linguist-vendored
+*.cs linguist-vendored
+*.cshtml linguist-vendored
 
